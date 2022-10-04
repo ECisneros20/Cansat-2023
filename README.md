@@ -8,11 +8,11 @@ This repository contains the necessary scripts for the operation of the satellit
 
 To clone the latest stable version:
 
-	git clone git@github.com:ECisneros20/Cansat-2023.git
+	git clone https://github.com/ECisneros20/Cansat-2023.git
 
 To clone the latest version:
 
-	git clone -b testing git@github.com:ECisneros20/Cansat-2023.git
+	git clone -b testing https://github.com/ECisneros20/Cansat-2023.git
 
 ## Usage
 
