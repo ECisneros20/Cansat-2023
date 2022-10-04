@@ -1,0 +1,5 @@
+numpy
+
+# BMP280
+smbus
+bmp280
